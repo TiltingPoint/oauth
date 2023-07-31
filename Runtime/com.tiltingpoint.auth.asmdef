@@ -1,0 +1,36 @@
+{
+    "name": "com.tiltingpoint.auth",
+    "rootNamespace": "",
+    "references": [
+        "com.tiltingpoint.core",
+        "com.tiltingpoint.ops",
+        "com.tiltingpoint.queue"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "tvOS"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.tiltingpoint.core",
+            "expression": "4.3.0",
+            "define": "TP_CORE_4_3_0_OR_GREATER"
+        },
+        {
+            "name": "com.tiltingpoint.ops",
+            "expression": "4.2.0",
+            "define": "TP_OPS"
+        },
+        {
+            "name": "com.tiltingpoint.core",
+            "expression": "4.2.0",
+            "define": "TP_CORE"
+        }
+    ],
+    "noEngineReferences": false
+}

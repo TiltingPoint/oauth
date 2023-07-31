@@ -1,0 +1,20 @@
+{
+  "publishConfig": {
+    "registry": "http://registry.tiltingpoint.io/"
+  },
+  "name": "com.tiltingpoint.auth",
+  "version": "0.0.9-preview.2",
+  "displayName": "TP SDK Auth",
+  "description": "Authentication for Tilting Point Services",
+  "unity": "2019.4",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Tilting Point Media LLC",
+    "email": "engineering@tiltingpoint.com",
+    "url": "https://www.tiltingpoint.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/TiltingPoint/tpsdk-unity.git"
+  }
+}

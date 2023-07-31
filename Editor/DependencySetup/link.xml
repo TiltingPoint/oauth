@@ -1,0 +1,17 @@
+<linker>
+    <assembly fullname="Microsoft.IdentityModel" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Tokens" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.JsonWebTokens" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Protocols" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Protocols.OpenIdConnect" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Protocols.OpenIdConnect.OpenIdConnectConfiguration" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Json" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Json.Serialization" preserve="all"/>
+    <assembly fullname="Microsoft.IdentityModel.Json.Serialization.JsonObjectContract" preserve="all"/>
+    
+    <assembly fullname="System.IdentityModel.Tokens.Jwt" preserve="all"/>
+
+    <assembly fullname="System.Core">
+        <type fullname="System.Linq.Expressions.Interpreter.LightLambda" preserve="all" />
+    </assembly>
+</linker>

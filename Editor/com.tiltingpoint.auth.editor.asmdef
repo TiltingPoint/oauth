@@ -1,0 +1,24 @@
+{
+    "name": "com.tiltingpoint.auth.editor",
+    "references": [
+        "com.tiltingpoint.auth",
+        "com.tiltingpoint.core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.tiltingpoint.core",
+            "expression": "4.3.0",
+            "define": "TP_CORE"
+        }
+    ],
+    "noEngineReferences": false
+}

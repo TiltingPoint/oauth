@@ -1,0 +1,10 @@
+{
+	"name": "com.tiltingpoint.queue",
+	"versionDefines": [
+		{
+			"name": "com.tiltingpoint.core",
+			"expression": "4.3.0",
+			"define": "TP_CORE_4_3_0_OR_GREATER"
+		}
+	]
+}
